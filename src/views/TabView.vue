@@ -101,7 +101,7 @@
                         </div>
                       </div>
                       <div
-                        class="pt-2 pr-2.5 pb-626 pl-3.5 w-full rounded-2.5xl bg-white"
+                        class="pt-2 pr-2.5 pb-626 pl-3.5 w-1/2 rounded-2.5xl bg-white"
                       >
                         <img
                           class="mb-0.5"
@@ -225,7 +225,7 @@
               <div class="mb-939">
                 <div class="flex w-80348">
                   <div
-                    class="pt-2 pr-2.5 pb-626 pl-3.5 w-full rounded-2.5xl bg-white mr-418"
+                    class="pt-2 pr-2.5 pb-626 pl-3.5 w-full rounded-2.5xl bg-white"
                   >
                     <img
                       class="mb-0.5"

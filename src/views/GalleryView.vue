@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- Here  -->
     <div class="pt-2.5 pl-24 pr-36 pb-1250 hidden md:block">
       <h1 class="mb-10 text-center font-bold text-945 leading-1268 uppercase">
         Packer pen Gallery
@@ -59,4 +60,3 @@ export default {
   props: ["idScreen"]
 };
 </script>
-
