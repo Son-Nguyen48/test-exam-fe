@@ -1,10 +1,10 @@
 <template>
   <div>
     <transition name="next">
-      <tab-view v-if="idScreen === 'tab'"></tab-view>
+      <tab-view v-show="idScreen === 'tab'"></tab-view>
     </transition>
     <transition name="prev">
-      <gallery-view v-if="idScreen === 'gallery'"></gallery-view>
+      <gallery-view v-show="idScreen === 'gallery'"></gallery-view>
     </transition>
     <nav class="flex justify-center items-center mt-30 gap-3.515">
       <div
